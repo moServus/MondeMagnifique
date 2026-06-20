@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }} | Mein Wien</title>
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/wikiViennaAT/abstracts/picsWien/flag.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+
+    <!-- Meta Tags -->
+    <meta property="og:title" content="{{ page.title }} | Mein Wien">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>🇦🇹 Mein Wien</h1>
+        <p>{{ site.description }}</p>
+        <nav style="margin-top: 1rem;">
+            <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">Home</a>
+            <a href="{{ site.baseurl }}/wikiViennaAT/abstracts/ViennaDE.md" style="color: white; margin: 0 1rem;">Full Guide</a>
+            <a href="https://github.com/moservus/MondeMagnifique" style="color: white; margin: 0 1rem;">GitHub</a>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <em>Exploring the beauty of Vienna, one guide at a time.</em>
+        <p>Made with ❤️ | <a href="https://github.com/moservus/MondeMagnifique">GitHub Repository</a> | © 2026 Mo Servus</p>
+    </footer>
+
+    <!-- Google Analytics (optional) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        // gtag('config', 'G-XXXXXXXXXX');
+    </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+title: "Mein Wien 🇦🇹"
+description: "A travel guide to Vienna, Austria - Discover the beauty, history, and culture"
+author: "Mo Servus"
+baseurl: "/MondeMagnifique"
+url: "https://moservus.github.io"
+
+# Jekyll settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections for organizing content
+collections:
+  abstracts:
+    output: true
+    permalink: /guides/:path/
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude from processing
+exclude:
+  - .claude
+  - .DS_Store
+  - node_modules
+  - vendor
