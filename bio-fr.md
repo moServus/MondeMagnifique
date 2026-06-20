@@ -12,10 +12,10 @@ Bienvenue dans mon espace numérique. Je suis un voyageur passionné, un enthous
 
 ## 🌐 Connectez-vous avec moi
 
-### 📘 [Facebook](https://facebook.com)
+### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Connectez-vous avec moi sur Facebook pour les mises à jour de voyage et les histoires de voyage.
 
-### 𝕏 [X (Twitter)](https://x.com)
+### 𝕏 [X (Twitter)](https://x.com/8020momo)
 Suivez-moi sur X pour des aperçus de voyage en temps réel et des réflexions quotidiennes.
 
 ### 💼 [LinkedIn](https://linkedin.com)
@@ -27,10 +27,10 @@ Mon profil professionnel sur Xing.
 ### 📷 [Instagram](https://instagram.com)
 Suivez mon voyage visuel de voyage et les moments en coulisses sur Instagram.
 
-### 💬 [Telegram](https://telegram.org)
+### 💬 [Telegram](https://t.me/momo72omom)
 Rejoignez ma chaîne Telegram pour des guides de voyage exclusifs et des mises à jour.
 
-### 🔒 [Signal](https://signal.org)
+### 🔒 [Signal](https://signal.me/#eu/Nwjv2kMT0lqlVeCiF5sjX8AuUKsnsuzN9nuSt3sY_VFfFOTgFrZDe4PA3imHHU6h)
 Contactez-moi via Signal pour des conversations privées.
 
 ---

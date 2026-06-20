@@ -12,10 +12,10 @@ Willkommen in meinem digitalen Raum. Ich bin ein leidenschaftlicher Reisender, O
 
 ## 🌐 Verbinden Sie sich mit mir
 
-### 📘 [Facebook](https://facebook.com)
+### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Verbinden Sie sich mit mir auf Facebook für Reiseaktualisierungen und Reisegeschichten.
 
-### 𝕏 [X (Twitter)](https://x.com)
+### 𝕏 [X (Twitter)](https://x.com/8020momo)
 Folgen Sie mir auf X für Echtzeit-Reiseeinblicke und tägliche Gedanken.
 
 ### 💼 [LinkedIn](https://linkedin.com)
@@ -27,10 +27,10 @@ Mein berufliches Profil auf Xing.
 ### 📷 [Instagram](https://instagram.com)
 Folgen Sie meiner visuellen Reisereise und Behind-the-Scenes-Momenten auf Instagram.
 
-### 💬 [Telegram](https://telegram.org)
+### 💬 [Telegram](https://t.me/momo72omom)
 Treten Sie meinem Telegram-Kanal bei für exklusive Reiseführer und Aktualisierungen.
 
-### 🔒 [Signal](https://signal.org)
+### 🔒 [Signal](https://signal.me/#eu/Nwjv2kMT0lqlVeCiF5sjX8AuUKsnsuzN9nuSt3sY_VFfFOTgFrZDe4PA3imHHU6h)
 Kontaktieren Sie mich über Signal für private Gespräche.
 
 ---

@@ -12,10 +12,10 @@ Welcome to my digital space. I'm a passionate traveler, open-source enthusiast, 
 
 ## 🌐 Connect With Me
 
-### 📘 [Facebook](https://facebook.com)
+### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Connect with me on Facebook for travel updates and travel stories.
 
-### 𝕏 [X (Twitter)](https://x.com)
+### 𝕏 [X (Twitter)](https://x.com/8020momo)
 Follow me on X for real-time travel insights and daily thoughts.
 
 ### 💼 [LinkedIn](https://linkedin.com)
@@ -27,10 +27,10 @@ My professional profile on Xing.
 ### 📷 [Instagram](https://instagram.com)
 Follow my visual travel journey and behind-the-scenes moments on Instagram.
 
-### 💬 [Telegram](https://telegram.org)
+### 💬 [Telegram](https://t.me/momo72omom)
 Join my Telegram channel for exclusive travel guides and updates.
 
-### 🔒 [Signal](https://signal.org)
+### 🔒 [Signal](https://signal.me/#eu/Nwjv2kMT0lqlVeCiF5sjX8AuUKsnsuzN9nuSt3sY_VFfFOTgFrZDe4PA3imHHU6h)
 Reach out via Signal for private conversations.
 
 ---
