@@ -86,7 +86,7 @@ Located on the Danube River, Vienna enchants visitors with:
 
 - **German Wikipedia**: [Wien](https://de.wikipedia.org/wiki/Wien)
 - **Full Documentation**: [Project README](./README.md)
-- **Back to Portfolio**: [← Return to Home](./index.md)
+- **Back to Portfolio**: [← Return to Home](./)
 
 ---
 
