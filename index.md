@@ -9,7 +9,7 @@ Welcome to my portfolio of open-source projects and travel guides.
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Voyages
 
 ### 🇦🇹 Mein Wien - Vienna Travel Guide
 **Your Complete Guide to Vienna, Austria**
