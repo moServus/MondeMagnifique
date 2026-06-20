@@ -5,7 +5,7 @@ title: Mo Servus - Projekte
 
 # 🌍 Mo'Servus De beaux Voyages
 
-[🇬🇧 English](./index.html) | [🇩🇪 Deutsch](./)
+[🇩🇪 Deutsch](./index-de.html) | [🇫🇷 Français](./index-fr.html) | [🇮🇹 Italiano](./index-it.html) | [🇬🇧 English](./index.html)
 
 Willkommen in meinem Portfolio mit Open-Source-Projekten und Reiseführern.
 
