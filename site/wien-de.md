@@ -98,7 +98,7 @@ An der Donau gelegen, bezaubert Wien Besucher mit:
 
 <div class="page-sidebar" markdown="1">
 
-![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
+![Vienna Flag](../assets/images/flag.png)
 
 </div>
 </div>

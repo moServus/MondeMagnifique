@@ -98,7 +98,7 @@ Located on the Danube River, Vienna enchants visitors with:
 
 <div class="page-sidebar" markdown="1">
 
-![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
+![Vienna Flag](../assets/images/flag.png)
 
 </div>
 </div>

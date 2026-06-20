@@ -98,7 +98,7 @@ Située sur le Danube, Vienne enchante les visiteurs avec:
 
 <div class="page-sidebar" markdown="1">
 
-![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
+![Vienna Flag](../assets/images/flag.png)
 
 </div>
 </div>

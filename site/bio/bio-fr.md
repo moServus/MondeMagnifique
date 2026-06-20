@@ -13,7 +13,17 @@ Bienvenue dans mon espace numérique. Je suis un voyageur passionné, un enthous
 ## 🌐 Connectez-vous avec moi
 
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
-Connectez-vous avec moi sur Facebook pour les mises à jour de voyage et les histoires de voyage.
+
+<table>
+<thead><tr><th></th><th>Logo</th><th>Attitude</th></tr></thead>
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><img src="./pics/bigLogo/fbLogo_master.jpg" alt="Logo" style="height: 100px; width: 100px; display: block; margin-bottom: 0.5rem;">Connectez-vous avec moi sur Facebook pour les mises à jour de voyage et les histoires de voyage.</td>
+<td style="vertical-align: bottom;"><img src="./pics/fbPeace.jpg" alt="Logo"></td>
+<td style="vertical-align: bottom;"><img src="./pics/fbMonza.jpg" alt="Attitude"></td>
+</tr>
+</tbody>
+</table>
 
 ### 𝕏 [Twitter](https://x.com/8020momo)
 Suivez-moi sur Twitter pour des aperçus de voyage en temps réel et des réflexions quotidiennes.

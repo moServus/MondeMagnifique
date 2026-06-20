@@ -13,7 +13,17 @@ Willkommen in meinem digitalen Raum. Ich bin ein leidenschaftlicher Reisender, O
 ## 🌐 Verbinden Sie sich mit mir
 
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
-Verbinden Sie sich mit mir auf Facebook für Reiseaktualisierungen und Reisegeschichten.
+
+<table>
+<thead><tr><th></th><th>Logo</th><th>Einstellung</th></tr></thead>
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><img src="./pics/bigLogo/fbLogo_master.jpg" alt="Logo" style="height: 100px; width: 100px; display: block; margin-bottom: 0.5rem;">Verbinden Sie sich mit mir auf Facebook für Reiseaktualisierungen und Reisegeschichten.</td>
+<td style="vertical-align: bottom;"><img src="./pics/fbPeace.jpg" alt="Logo"></td>
+<td style="vertical-align: bottom;"><img src="./pics/fbMonza.jpg" alt="Einstellung"></td>
+</tr>
+</tbody>
+</table>
 
 ### 𝕏 [Twitter](https://x.com/8020momo)
 Folgen Sie mir auf Twitter für Echtzeit-Reiseeinblicke und tägliche Gedanken.

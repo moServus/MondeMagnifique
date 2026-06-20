@@ -13,7 +13,17 @@ Welcome to my digital space. I'm a passionate traveler, open-source enthusiast, 
 ## 🌐 Connect With Me
 
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
-Connect with me on Facebook for travel updates and travel stories.
+
+<table>
+<thead><tr><th></th><th>Logo</th><th>Attitude</th></tr></thead>
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><img src="./pics/bigLogo/fbLogo_master.jpg" alt="Logo" style="height: 100px; width: 100px; display: block; margin-bottom: 0.5rem;">Connect with me on Facebook for travel updates and travel stories.</td>
+<td style="vertical-align: bottom;"><img src="./pics/fbPeace.jpg" alt="Logo"></td>
+<td style="vertical-align: bottom;"><img src="./pics/fbMonza.jpg" alt="Attitude"></td>
+</tr>
+</tbody>
+</table>
 
 ### 𝕏 [Twitter](https://x.com/8020momo)
 Follow me on Twitter for real-time travel insights and daily thoughts.

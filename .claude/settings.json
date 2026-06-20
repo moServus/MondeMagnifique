@@ -1,7 +1,29 @@
 {
   "permissions": {
     "allow": [
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "Bash(mkdir -p /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics)",
+      "Bash(touch /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/.gitkeep)",
+      "Bash(sips -g pixelWidth -g pixelHeight fbPeace.jpg fbMonza.jpg)",
+      "Bash(sips -c 920 1226 /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbPeace.jpg)",
+      "Bash(sips -z 453 604 /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbPeace.jpg)",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbPeace.jpg)",
+      "Bash(sips -s format jpeg /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbLogo.avif --out /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbLogo.jpg)",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbLogo.jpg)",
+      "Bash(mkdir -p header-h1 nav page-h1 h2 h3 body)",
+      "Bash(touch header-h1/.gitkeep nav/.gitkeep page-h1/.gitkeep h2/.gitkeep body/.gitkeep)",
+      "Bash(mv fbLogo.jpg h3/fbLogo.jpg)",
+      "Bash(sips -s format jpeg fbLogo.avif --out fbLogo_master.jpg)",
+      "Bash(sips -g pixelWidth -g pixelHeight fbLogo_master.jpg)",
+      "Bash(mkdir -p bigLogo)",
+      "Bash(cp fbLogo_master.jpg bigLogo/fbLogo_master.jpg)",
+      "Bash(sips -g pixelHeight /Users/hmo8020/Documents/Claude/Projects/MondeMagnifique/bio/pics/fbPeace.jpg)",
+      "Bash(sips -z 453 453 fbLogo_master.jpg)",
+      "Bash(gem list *)",
+      "Bash(ruby -e \"require 'kramdown'\")",
+      "Bash(gem install *)",
+      "Bash(ruby -e ' *)",
+      "Bash(git mv *)"
     ]
   }
 }
