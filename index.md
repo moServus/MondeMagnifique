@@ -3,8 +3,6 @@ layout: default
 title: Mo Servus - Projects
 ---
 
-# 🌍 Mo'Servus De beaux Voyages
-
 [🇩🇪 Deutsch](./index-de.html) | [🇫🇷 Français](./index-fr.html) | [🇮🇹 Italiano](./index-it.html) | [🇬🇧 English](./index.html)
 
 Welcome to my portfolio of open-source projects and travel guides.
