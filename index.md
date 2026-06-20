@@ -7,6 +7,8 @@ title: Mo Servus - Projects
 
 Welcome to my portfolio of open-source projects and travel guides.
 
+**GitHub Repository**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
+
 ---
 
 ## 🎯 Featured Voyages
