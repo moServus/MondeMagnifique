@@ -15,8 +15,8 @@ Willkommen in meinem digitalen Raum. Ich bin ein leidenschaftlicher Reisender, O
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Verbinden Sie sich mit mir auf Facebook für Reiseaktualisierungen und Reisegeschichten.
 
-### 𝕏 [X (Twitter)](https://x.com/8020momo)
-Folgen Sie mir auf X für Echtzeit-Reiseeinblicke und tägliche Gedanken.
+### 𝕏 [Twitter](https://x.com/8020momo)
+Folgen Sie mir auf Twitter für Echtzeit-Reiseeinblicke und tägliche Gedanken.
 
 ### 💼 [LinkedIn](https://linkedin.com)
 Berufliches Netzwerk und Karriereweg auf LinkedIn.

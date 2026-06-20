@@ -15,8 +15,8 @@ Bienvenue dans mon espace numérique. Je suis un voyageur passionné, un enthous
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Connectez-vous avec moi sur Facebook pour les mises à jour de voyage et les histoires de voyage.
 
-### 𝕏 [X (Twitter)](https://x.com/8020momo)
-Suivez-moi sur X pour des aperçus de voyage en temps réel et des réflexions quotidiennes.
+### 𝕏 [Twitter](https://x.com/8020momo)
+Suivez-moi sur Twitter pour des aperçus de voyage en temps réel et des réflexions quotidiennes.
 
 ### 💼 [LinkedIn](https://linkedin.com)
 Réseau professionnel et parcours professionnel sur LinkedIn.

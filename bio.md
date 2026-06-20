@@ -15,8 +15,8 @@ Welcome to my digital space. I'm a passionate traveler, open-source enthusiast, 
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Connect with me on Facebook for travel updates and travel stories.
 
-### 𝕏 [X (Twitter)](https://x.com/8020momo)
-Follow me on X for real-time travel insights and daily thoughts.
+### 𝕏 [Twitter](https://x.com/8020momo)
+Follow me on Twitter for real-time travel insights and daily thoughts.
 
 ### 💼 [LinkedIn](https://linkedin.com)
 Professional network and career journey on LinkedIn.

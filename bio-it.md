@@ -15,8 +15,8 @@ Benvenuti nel mio spazio digitale. Sono un viaggiatore appassionato, entusiasta 
 ### 📘 [Facebook](https://www.facebook.com/hmo8020)
 Collegatevi con me su Facebook per aggiornamenti di viaggio e storie di viaggio.
 
-### 𝕏 [X (Twitter)](https://x.com/8020momo)
-Seguitemi su X per approfondimenti di viaggio in tempo reale e pensieri quotidiani.
+### 𝕏 [Twitter](https://x.com/8020momo)
+Seguitemi su Twitter per approfondimenti di viaggio in tempo reale e pensieri quotidiani.
 
 ### 💼 [LinkedIn](https://linkedin.com)
 Rete professionale e percorso professionale su LinkedIn.
