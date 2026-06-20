@@ -8,16 +8,16 @@
     {% assign lang = page.lang | default: "en" %}
     {% case lang %}
       {% when "de" %}
-        {% assign brand = "Meine Reisen" %}
+        {% assign brand = "mo'Servus Reiseführer" %}
         {% assign brand_emoji = "🇦🇹" %}
       {% when "fr" %}
-        {% assign brand = "Mes Voyages" %}
+        {% assign brand = "mo'Servus Guide de Voyage" %}
         {% assign brand_emoji = "🇫🇷" %}
       {% when "it" %}
-        {% assign brand = "I Miei Viaggi" %}
+        {% assign brand = "mo'Servus Guida di Viaggio" %}
         {% assign brand_emoji = "🇮🇹" %}
       {% else %}
-        {% assign brand = "My Travels" %}
+        {% assign brand = "mo'Servus Travel Guide" %}
         {% assign brand_emoji = "🏴󠁧󠁢󠁥󠁮󠁧󠁿" %}
     {% endcase %}
 
