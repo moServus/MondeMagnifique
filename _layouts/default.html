@@ -42,9 +42,6 @@
 <body>
     <header>
         <h1>{{ brand_emoji }} {{ brand }}</h1>
-        {% unless page.url == "/" %}
-        <p>{{ site.description }}</p>
-        {% endunless %}
         <nav style="margin-top: 1rem;">
             {% case lang %}
               {% when "de" %}
