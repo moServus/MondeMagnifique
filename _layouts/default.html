@@ -44,7 +44,16 @@
         <h1>{{ brand_emoji }} {{ brand }}</h1>
         <p>{{ site.description }}</p>
         <nav style="margin-top: 1rem;">
-            <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">Home</a>
+            {% case lang %}
+              {% when "de" %}
+                <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">🏠 Heim</a>
+              {% when "fr" %}
+                <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">🏠 Accueil</a>
+              {% when "it" %}
+                <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">🏠 Casa</a>
+              {% else %}
+                <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem;">🏠 Home</a>
+            {% endcase %}
             <a href="{{ site.baseurl }}/wikiViennaAT/abstracts/ViennaDE.md" style="color: white; margin: 0 1rem;">Full Guide</a>
             <a href="https://github.com/moservus/MondeMagnifique" style="color: white; margin: 0 1rem;">GitHub</a>
         </nav>
