@@ -23,7 +23,12 @@
       "Bash(ruby -e \"require 'kramdown'\")",
       "Bash(gem install *)",
       "Bash(ruby -e ' *)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(curl -s \"https://api.github.com/repos/moServus/MondeMagnifique/actions/runs?per_page=5\")",
+      "Bash(brew install *)",
+      "Bash(gh run list *)",
+      "Bash(gh run view *)",
+      "Bash(gh api *)"
     ]
   }
 }
