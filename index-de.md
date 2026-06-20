@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mo Servus - Projekte
+lang: de
 ---
 
 [🇩🇪 Deutsch](./index-de.html) | [🇫🇷 Français](./index-fr.html) | [🇮🇹 Italiano](./index-it.html) | [🇬🇧 English](./index.html)

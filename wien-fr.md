@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mein Wien - Guide de Voyage à Vienne
+lang: fr
 ---
 
 <div class="page-layout" markdown="1">

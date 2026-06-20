@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mein Wien - Wien Reiseführer
+lang: de
 ---
 
 <div class="page-layout" markdown="1">
