@@ -24,7 +24,7 @@ A comprehensive, tourist-friendly travel guide to Vienna with curated Wikipedia 
 
 **Status**: 🏋🏼‍♂️ Work in Progress | Research began June 20, 2026 | Trip: August 15-17, 2026
 
-[**Explore the Vienna Guide →**](./wikiViennaAT/abstracts/ViennaDE.md)
+[**Explore the Vienna Guide →**](./wien.html)
 
 ---
 
@@ -41,7 +41,7 @@ A comprehensive, tourist-friendly travel guide to Vienna with curated Wikipedia 
 ## 🔗 Quick Links
 
 - **GitHub Repository**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
-- **Vienna Guide**: [Comprehensive Tourist Guide](./wikiViennaAT/abstracts/ViennaDE.md)
+- **Vienna Guide**: [Comprehensive Tourist Guide](./wien.html)
 - **Source Documentation**: [Wikipedia References](./wikiViennaDE.md)
 
 ---
