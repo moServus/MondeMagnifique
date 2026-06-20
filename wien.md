@@ -3,8 +3,8 @@ layout: default
 title: Mein Wien - Vienna Travel Guide
 ---
 
-<div class="page-layout">
-<div class="page-content">
+<div class="page-layout" markdown="1">
+<div class="page-content" markdown="1">
 
 # 🇦🇹 Mein Wien
 ## Your Complete Guide to Vienna, Austria
@@ -93,7 +93,7 @@ Located on the Danube River, Vienna enchants visitors with:
 
 </div>
 
-<div class="page-sidebar">
+<div class="page-sidebar" markdown="1">
 
 ![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
 
