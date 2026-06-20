@@ -8,16 +8,16 @@
     {% assign lang = page.lang | default: "en" %}
     {% case lang %}
       {% when "de" %}
-        {% assign brand = "Meine Trips & Reisen" %}
+        {% assign brand = "Meine Reisen" %}
         {% assign brand_emoji = "🇦🇹" %}
       {% when "fr" %}
-        {% assign brand = "Mes Trips & Voyages" %}
+        {% assign brand = "Mes Voyages" %}
         {% assign brand_emoji = "🇫🇷" %}
       {% when "it" %}
-        {% assign brand = "I Miei Trips & Viaggi" %}
+        {% assign brand = "I Miei Viaggi" %}
         {% assign brand_emoji = "🇮🇹" %}
       {% else %}
-        {% assign brand = "My Trips & Travels" %}
+        {% assign brand = "My Travels" %}
         {% assign brand_emoji = "🏴󠁧󠁢󠁥󠁮󠁧󠁿" %}
     {% endcase %}
 
