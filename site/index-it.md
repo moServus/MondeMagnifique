@@ -27,14 +27,14 @@ Una guida di viaggio completa e facile da usare per Vienna con fonti Wikipedia s
 
 **Stato**: 🏋🏼‍♂️ Lavori in Corso | Ricerca iniziata il 20 giugno 2026 | Viaggio: 15-17 agosto 2026
 
-[**Esplora la Guida di Vienna →**](./wien-it.html)
+[**Esplora la Guida di Vienna →**](/wien-it.html)
 
 ---
 
 ## 🔗 Link Rapidi
 
 - **Repository GitHub**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
-- **Guida di Vienna**: [Guida Completa di Viaggio](./wien-it.html)
+- **Guida di Vienna**: [Guida Completa di Viaggio](/wien-it.html)
 - **Riferimenti**: [Riferimenti Wikipedia](./wikiViennaDE.md)
 
 ---

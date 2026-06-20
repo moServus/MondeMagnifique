@@ -27,14 +27,14 @@ Un guide de voyage complet et convivial pour Vienne avec des sources Wikipédia 
 
 **Statut**: 🏋🏼‍♂️ En cours de développement | Recherche commencée le 20 juin 2026 | Voyage: 15-17 août 2026
 
-[**Explorez le Guide de Vienne →**](./wien-fr.html)
+[**Explorez le Guide de Vienne →**](/wien-fr.html)
 
 ---
 
 ## 🔗 Liens Rapides
 
 - **Dépôt GitHub**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
-- **Guide de Vienne**: [Guide Complet de Voyage](./wien-fr.html)
+- **Guide de Vienne**: [Guide Complet de Voyage](/wien-fr.html)
 - **Références**: [Références Wikipédia](./wikiViennaDE.md)
 
 ---

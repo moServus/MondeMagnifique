@@ -2,6 +2,7 @@
 layout: default
 title: Mein Wien - Wien Reiseführer
 lang: de
+permalink: /wien-de.html
 ---
 
 <div class="page-layout" markdown="1">

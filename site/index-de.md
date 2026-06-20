@@ -27,14 +27,14 @@ Ein umfassender, touristenfreundlicher Reiseführer für Wien mit kuratierten Wi
 
 **Status**: 🏋🏼‍♂️ In Arbeit | Recherche begann am 20. Juni 2026 | Reise: 15.–17. August 2026
 
-[**Entdecke den Wien-Führer →**](./wien-de.html)
+[**Entdecke den Wien-Führer →**](/wien-de.html)
 
 ---
 
 ## 🔗 Schnelllinks
 
 - **GitHub-Repository**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
-- **Wien-Führer**: [Vollständiger Reiseführer](./wien-de.html)
+- **Wien-Führer**: [Vollständiger Reiseführer](/wien-de.html)
 - **Quellenangaben**: [Wikipedia-Referenzen](./wikiViennaDE.md)
 
 ---
