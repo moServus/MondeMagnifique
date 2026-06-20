@@ -30,16 +30,6 @@ A comprehensive, tourist-friendly travel guide to Vienna with curated Wikipedia 
 
 ---
 
-## 📚 Project Resources
-
-| Resource | Purpose |
-|----------|---------|
-| [German Wikipedia Links](./wikiViennaDE.md) | Curated list of relevant German Wikipedia sources |
-| [Development Guide](./CLAUDE.md) | Setup instructions and conventions for contributors |
-| [Full Project README](./README.md) | Complete project documentation |
-
----
-
 ## 🔗 Quick Links
 
 - **GitHub Repository**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)
