@@ -10,7 +10,7 @@ lang: de
 # 🇦🇹 Mein Wien
 ## Ihr vollständiger Führer durch Wien, Österreich
 
-[🇩🇪 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
+[🇦🇹 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
 
 Willkommen bei **Mein Wien** - ein umfassender Reiseführer zu einer der schönsten, historisch reichsten und kulturell lebendigsten Städte Europas. Wien hat Besucher seit Jahrhunderten mit seinen kaiserlichen Palästen, Weltklasse-Museen und legendären Kaffeehauskultur fasziniert.
 

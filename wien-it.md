@@ -10,7 +10,7 @@ lang: it
 # 🇦🇹 Mein Wien
 ## La Tua Guida Completa a Vienna, Austria
 
-[🇩🇪 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
+[🇦🇹 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
 
 Benvenuti a **Mein Wien** - una guida di viaggio completa per una delle più belle, storicamente ricche e culturalmente vibranti città d'Europa. Vienna (Wien) ha affascinato i visitatori per secoli con i suoi palazzi imperiali, i musei di classe mondiale e la leggendaria cultura del caffè.
 

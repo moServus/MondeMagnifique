@@ -4,7 +4,7 @@ title: Mo Servus - Projets
 lang: fr
 ---
 
-[🇩🇪 Deutsch](./index-de.html) | [🇫🇷 Français](./index-fr.html) | [🇮🇹 Italiano](./index-it.html) | [🇬🇧 English](./index.html)
+[🇦🇹 Deutsch](./index-de.html) | [🇫🇷 Français](./index-fr.html) | [🇮🇹 Italiano](./index-it.html) | [🇬🇧 English](./index.html)
 
 Bienvenue dans mon portefeuille de projets open-source et de guides de voyage.
 
