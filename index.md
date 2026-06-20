@@ -5,6 +5,8 @@ title: Mo Servus - Projects
 
 # 🌍 Mo'Servus De beaux Voyages
 
+[🇬🇧 English](./index.html) | [🇩🇪 Deutsch](./index-de.html)
+
 Welcome to my portfolio of open-source projects and travel guides.
 
 **GitHub Repository**: [moservus/MondeMagnifique](https://github.com/moServus/MondeMagnifique)

@@ -9,6 +9,8 @@ title: Mein Wien - Vienna Travel Guide
 # 🇦🇹 Mein Wien
 ## Your Complete Guide to Vienna, Austria
 
+[🇬🇧 English](./wien.html) | [🇩🇪 Deutsch](./wien-de.html)
+
 Welcome to **Mein Wien** - a comprehensive travel guide to one of Europe's most beautiful, historically rich, and culturally vibrant cities. Vienna (Wien) has captivated visitors for centuries with its imperial palaces, world-class museums, and legendary coffeehouse culture.
 
 ---
