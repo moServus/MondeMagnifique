@@ -8,7 +8,7 @@ lang: it
 <div class="page-content" markdown="1">
 
 # 🇦🇹 Mein Wien
-## La Tua Guida Completa a Vienna, Austria
+## La Tua Guida Completa di Viaggio a Vienna, Austria
 
 [🇦🇹 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
 

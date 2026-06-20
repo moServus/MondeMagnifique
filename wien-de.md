@@ -8,7 +8,7 @@ lang: de
 <div class="page-content" markdown="1">
 
 # 🇦🇹 Mein Wien
-## Ihr vollständiger Führer durch Wien, Österreich
+## Ihr vollständiger Reiseführer durch Wien, Österreich
 
 [🇦🇹 Deutsch](./wien-de.html) | [🇫🇷 Français](./wien-fr.html) | [🇮🇹 Italiano](./wien-it.html) | [🇬🇧 English](./wien.html)
 
