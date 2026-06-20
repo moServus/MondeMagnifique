@@ -153,8 +153,47 @@ footer em {
   margin-bottom: 0.5rem;
 }
 
+/* 2-column page layout */
+.page-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.page-content {
+  flex: 1 1 65%;
+  min-width: 0;
+}
+
+.page-sidebar {
+  flex: 0 0 300px;
+  position: sticky;
+  top: 2rem;
+}
+
+.page-sidebar img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: block;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
+  .page-layout {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .page-sidebar {
+    flex: 0 0 auto;
+    position: static;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
   main {
     padding: 1rem;
   }

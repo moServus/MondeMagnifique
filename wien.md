@@ -3,10 +3,11 @@ layout: default
 title: Mein Wien - Vienna Travel Guide
 ---
 
+<div class="page-layout">
+<div class="page-content">
+
 # 🇦🇹 Mein Wien
 ## Your Complete Guide to Vienna, Austria
-
-![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
 
 Welcome to **Mein Wien** - a comprehensive travel guide to one of Europe's most beautiful, historically rich, and culturally vibrant cities. Vienna (Wien) has captivated visitors for centuries with its imperial palaces, world-class museums, and legendary coffeehouse culture.
 
@@ -89,6 +90,15 @@ Located on the Danube River, Vienna enchants visitors with:
 - **Back to Portfolio**: [← Return to Home](./)
 
 ---
+
+</div>
+
+<div class="page-sidebar">
+
+![Vienna Flag](./wikiViennaAT/abstracts/picsWien/flag.png)
+
+</div>
+</div>
 
 <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee;">
   <p><em>Exploring the beauty, history, and culture of Vienna.</em></p>
