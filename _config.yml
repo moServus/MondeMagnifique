@@ -5,7 +5,6 @@ baseurl: "/MondeMagnifique"
 url: "https://moservus.github.io"
 
 # Jekyll settings
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
