@@ -3,7 +3,7 @@ layout: default
 title: Mo Servus - Projects
 ---
 
-# 🌍 Mo Servus Projects
+# 🌍 Mo'Servus De beaux Voyages
 
 Welcome to my portfolio of open-source projects and travel guides.
 
